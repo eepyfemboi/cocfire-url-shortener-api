@@ -1,6 +1,6 @@
-==============
-The official API for my URL shortener.
-==============
+=================
+URL Shortener API
+=================
 
 The official API for my URL shortener.
 
