@@ -10,7 +10,7 @@ class InvalidRequestError(Exception):
     """Raised when an invalid url is passed"""
     pass
 
-def test_shorten_url(url: str):
+def test_shorten_url(url: str = "https://example.com/"):
     """
     Shortens a URL
     --------------
