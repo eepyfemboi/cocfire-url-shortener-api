@@ -5,4 +5,3 @@ name = "cocfire-url-shortener-api"
 version = "0.0.1"
 description = "The official api wrapper for my url shortener"
 long_description = "The official api wrapper for my url shortener"
-authors = ["CoCFire"]
